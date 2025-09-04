@@ -4,3 +4,5 @@ This is the README file for the "my_pull_exercise", which is my favorite repo ev
 
 This is a cool project by me, Sébastien Guillotin.
 This project is for my intro to GitHub and C# class.
+
+This is my favorite practice exercise so far!
